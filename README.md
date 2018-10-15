@@ -1,5 +1,5 @@
 Recetas de Cocina
 =================
 
-*Recetas de Tortilla
-*Postres
+* Recetas de Tortilla
+* Postres
